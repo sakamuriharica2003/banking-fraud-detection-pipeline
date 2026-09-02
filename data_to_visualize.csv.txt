@@ -1,0 +1,8 @@
+"merchant_category","total_transactions","avg_amount"
+"online_retail","976","2517.021096311476"
+"electronics","959","2490.227403545361"
+"grocery","1026","2445.771208576997"
+"travel","980","2485.353173469389"
+"restaurant","1035","2452.6604637681166"
+"gas_station","962","2502.918565488566"
+

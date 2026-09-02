@@ -1,0 +1,9 @@
+venv/
+targets.json
+config.json
+__pycache__/
+*.pyc
+.ivy2.5.2/
+spark-warehouse/
+tableau-data/*.csv
+.DS_Store

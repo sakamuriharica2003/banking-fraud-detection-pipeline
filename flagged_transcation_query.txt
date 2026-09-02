@@ -1,0 +1,8 @@
+"merchant_category","flagged_count"
+"online_retail","408"
+"gas_station","382"
+"restaurant","409"
+"grocery","382"
+"travel","393"
+"electronics","384"
+
